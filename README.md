@@ -10,4 +10,4 @@ On this project regression testing is currently a manual process, which is a lab
 
 ## Lesson Learned
 * Don't try to convert existing manual regression tests into automated test scripts
-* Create API automated tests where possible to avoid flakiness when going through UI 
+* Create API automated tests where possible to avoid UI flakiness
