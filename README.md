@@ -1,7 +1,7 @@
 # Protractor
 
 ## Project
-On this project regression testing is currently a manual process, which is a laborious, monotonous process. In collaboration with the lead developer, an automated regression test suite was setup to reduce manual effort it takes to run regression tests, and allow testing to focus on new features. The choice was made to use Protractor mainly as all new featured are written in Angular
+On this project regression testing is currently a manual process, which is a laborious, monotonous process. In collaboration with the lead developer, an automated regression test suite was setup to reduce manual effort it takes to run regression tests, and allow testing to focus on new features. The choice was made to use Protractor mainly as all new features are written in Angular
 
 ### Key Features
 * Use of page objects
