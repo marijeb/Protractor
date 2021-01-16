@@ -5,7 +5,7 @@ On this project regression testing is currently a manual process, which is a lab
 
 ### Key Features
 * Use of page objects
-* Folder strcuture:
+* Folder structure:
   * Utilities
   * Page Objects
   * Test Cases 
