@@ -1,9 +1,5 @@
 # Protractor
 
-## Intro
-
-## Description
-
-### Tech used
+## Project
 
 ## Lesson Learned
