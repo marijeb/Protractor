@@ -9,3 +9,4 @@
 * Test report generated after run is finished using
 
 ## Lesson Learned
+* Don't try to convert existing regressing tests into automated test scripts
