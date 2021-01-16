@@ -7,7 +7,6 @@ On this project regression testing is currently a manual process, which is a lab
 * Use of page objects
 * Tests for both Angular, and non-Angular pages
 * Written using typescript
-* 
 
 ## Lesson Learned
 * Don't try to convert existing manual regression tests into automated test scripts
