@@ -7,7 +7,7 @@ On this project regression testing is currently a manual process, which is a lab
 * Use of page objects
 * Tests for both Angular, and non-Angular pages
 * Written using typescript
-* Use of Gith with Bitbucket for source control
+* Use of Git with Bitbucket for source control
 
 ## Lesson Learned
 * Don't try to convert existing manual regression tests into automated test scripts
