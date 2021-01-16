@@ -10,3 +10,4 @@
 
 ## Lesson Learned
 * Don't try to convert existing manual regression tests into automated test scripts
+* Create API automated tests where possible to avoid flakiness when going through UI 
